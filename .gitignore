@@ -1,5 +1,5 @@
 vendor/bundle
 vendor/cache
 .bundle/
-vendor/bundle/ruby
 out*
+coverage

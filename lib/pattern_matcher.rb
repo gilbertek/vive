@@ -6,7 +6,7 @@ class PatternMatcher
 
   def initialize(in_file)
     @patterns = []
-    @paths = []
+    @paths    = []
 
     read_patterns_and_path(in_file)
   end
